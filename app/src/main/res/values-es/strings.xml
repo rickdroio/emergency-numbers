@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Números de Emergencia de Brasil</string>
+    <string name="menu_settings">Sobre&#8230;</string>
+    <string name="menu_crimemaps">Download Crime Maps</string>
+
+    <string name="text_warning">¡ATENCIÓN! Esta aplicación no es responsable por completar la llamada de emergencia</string>
+
+    <string name="title_sobre">Acerca de Números de Emergencia de Brasil</string>
+    <string name="text_sobre">Esta aplicación, representada por su desarrollador, no tiene, o dice tener, la responsabilidad por el hecho de que las llamadas de emergencia no se hacen con éxito, para cualquier propósito. También no tiene responsabilidad si se cambia el número correspondiente está correcto. El propósito de esta aplicación es proporcionar un servicio a la comunidad, proporcionando los números de emergencia de fácil acceso a través del smartphone.</string>
+
+    <string name="popup_call">Realmente llamar al número de emergencia?</string>
+    <string name="popup_call_yes">Si</string>
+    <string name="popup_call_no">No</string>
+
+    <string name="number_denuncia">Línea Directa</string>
+    <string name="desc_denuncia">Proporcionar información anónima para policía sobre delitos o otras formas de violencia</string>
+
+    <string name="number_samu">SAMU (Ambulancia)</string>
+    <string name="desc_samu">Servicio Móvil de Urgencia (Ambulancia)</string>
+
+    <string name="number_bombeiros">Departamento de Bomberos</string>
+    <string name="desc_bombeiros">Prevención y extinción de incendios, búsqueda, rescate y ayudas públicas</string>
+
+    <string name="number_policia_militar">Policía militar</string>
+    <string name="desc_policia_militar">Policía ostensiva y el mantenimiento del orden público</string>
+
+    <string name="number_policia_militar_inter">Policía militar</string>
+    <string name="desc_policia_militar_inter">Número de emergencia internacional, igual a 190</string>
+
+    <string name="number_policia_rodoviaria_federal">Policía Federal de Carreteras</string>
+    <string name="desc_policia_rodoviaria_federal">Patrullaje ostensible de las carreteras federales</string>
+
+    <string name="number_policia_rodoviaria_estadual">Patrulla de Carreteras del Estado</string>
+    <string name="desc_policia_rodoviaria_estadual">Apoyo a los accidentes y control del tránsito</string>
+
+    <string name="number_policia_federal">Policía Federal</string>
+    <string name="desc_policia_federal">Responsable por el aeropuerto, la frontera, medicamentos, etc</string>
+
+    <string name="number_policia_civil">Policía Civil</string>
+    <string name="desc_policia_civil">Responsable de la liquidación de las infracciones penales</string>
+
+    <string name="number_defesa_civil">Defensa Civil</string>
+    <string name="desc_defesa_civil">Apoyo a Desastres</string>
+
+    <string name="number_mulher">Asistencia a la Mujer</string>
+    <string name="desc_mulher">Especializado en delitos contra la mujer</string>
+
+    <string name="number_direitos_humanos">Derechos Humanos</string>
+    <string name="desc_direitos_humanos">Responsable de los derechos de los niños, adolescentes, adultos mayores y personas con discapacidad</string>
+
+    <string name="number_ibama">Ibama</string>
+    <string name="desc_ibama">Delitos contra el medio ambiente</string>
+
+    <string name="number_transportes_publicos">Transporte Público</string>
+    <string name="desc_transportes_publicos">Responsable para el transporte público</string>
+
+    <string name="number_vigilancia_sanitaria">Vigilancia de la Salud</string>
+    <string name="desc_vigilancia_sanitaria">Control sanitario de todos los productos y servicios</string>
+
+    <string name="number_procon">PROCON</string>
+    <string name="desc_procon">Protección del Consumidor</string>
+
+    <string name="number_horacerta">Tiempo</string>
+    <string name="desc_horacerta">Hora oficial de Brasil</string>
+
+    <string name="number_cvv">Línea caliente</string>
+    <string name="desc_cvv">Programa de Apoyo Emocional por voluntarios</string>
+
+    <string name="popup_rating_text">¿Te gusta usar el app? ¿Le importaría evaluarlo? Es sólo un minuto. Gracias por su apoyo!</string>
+    <string name="popup_rating_btn_now">Vota ahora</string>
+    <string name="popup_rating_btn_later">Recordar más tarde</string>
+    <string name="popup_rating_btn_never">No, gracias</string>
+    <string name="popup_rating_title">Evaluación del app</string>
+    <string name="number_guarda_municipal">Guardia Municipal</string>
+    <string name="desc_guarda_municipal">Policía local (Policía de la ciudad)</string>
+    <string name="privacy_policy">Politica de Privacidade</string>
+
+</resources>

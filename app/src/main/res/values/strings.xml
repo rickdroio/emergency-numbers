@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-9501254575979249/6535283814</string>
+
+    <string name="app_name">Brazilian Emergency Numbers</string>
+    <string name="menu_settings">About&#8230;</string>
+    <string name="menu_crimemaps">Download Crime Maps</string>
+
+    <string name="text_warning">ATTENTION! This app is not responsible for completing the emergency call</string>
+
+    <string name="title_sobre">About Brazilian Emergency Numbers</string>
+    <string name="text_sobre">This application, represented by its developer, does not have, or claims to have, responsibility for the fact that emergency calls are not made ​​successfully, for any purpose. Also does not have liability if the numbers change or are wrong. The purpose of this application is to provide service to the community by providing emergency numbers for easy access via mobile</string>
+    <string name="privacy_link" translatable="false">http://delroiodev.railsplayground.net/emergency_privacy.html</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+
+    <string name="popup_call">Do you really want to call the emergency number?</string>
+    <string name="popup_call_yes">Yes</string>
+    <string name="popup_call_no">No</string>
+
+    <string name="number_denuncia">Crime Hotline</string>
+    <string name="desc_denuncia">Provide the police anonymous information about crimes or any kind of violence</string>
+
+    <string name="number_samu">SAMU (Ambulance)</string>
+    <string name="desc_samu">Emergency service (Ambulance)</string>
+
+    <string name="number_bombeiros">Fire Department</string>
+    <string name="desc_bombeiros">Prevention and fire fighting, search, rescue and public aid</string>
+
+    <string name="number_policia_militar">Police</string>
+    <string name="desc_policia_militar">Military Police - ostensive policing and the maintenance of public order</string>
+
+    <string name="number_policia_militar_inter">Police</string>
+    <string name="desc_policia_militar_inter">International emergency number, same as 190</string>
+
+    <string name="number_policia_rodoviaria_federal">Federal Highway Police</string>
+    <string name="desc_policia_rodoviaria_federal">Patrol ostensibly of the federal highways</string>
+
+    <string name="number_policia_rodoviaria_estadual">State Highway Patrol</string>
+    <string name="desc_policia_rodoviaria_estadual">Support for accidents and traffic enforcement</string>
+
+    <string name="number_policia_federal">Federal police</string>
+    <string name="desc_policia_federal">Responsible for maritime, airport and border functions, drugs, etc</string>
+
+    <string name="number_policia_civil">Civil police</string>
+    <string name="desc_policia_civil">Responsible for the clearance of criminal offenses</string>
+
+    <string name="number_defesa_civil">Civil defense</string>
+    <string name="desc_defesa_civil">Support disaster</string>
+
+    <string name="number_mulher">Assistance to Women Police</string>
+    <string name="desc_mulher">Specialized in crimes against the woman</string>
+
+    <string name="number_direitos_humanos">Human Rights</string>
+    <string name="desc_direitos_humanos">Responsible for the rights of children, teenagers, elderly and disabled persons</string>
+
+    <string name="number_ibama">Ibama</string>
+    <string name="desc_ibama">Crimes against the environment</string>
+
+    <string name="number_transportes_publicos">Public Transportation</string>
+    <string name="desc_transportes_publicos">Responsible for public transport</string>
+
+    <string name="number_vigilancia_sanitaria">Health Surveillance</string>
+    <string name="desc_vigilancia_sanitaria">Sanitary control of all products and services</string>
+
+    <string name="number_procon">PROCON</string>
+    <string name="desc_procon">Consumer Protection</string>
+
+    <string name="number_horacerta">Right Time</string>
+    <string name="desc_horacerta">Brazilian official time</string>
+
+    <string name="number_cvv">Hot line</string>
+    <string name="desc_cvv">Emotional Support Program by volunteers</string>
+
+    <string name="number_guarda_municipal">Municipal guard</string>
+    <string name="desc_guarda_municipal">Local police (City Police)</string>
+
+
+    <string name="popup_rating_text">Do you like to use this app? Would you care to evaluate it? It\'s just a minute. Thanks for your support!</string>
+    <string name="popup_rating_btn_now">Rate it now</string>
+    <string name="popup_rating_btn_later">Remind me later</string>
+    <string name="popup_rating_btn_never">No, thanks</string>
+    <string name="popup_rating_title">App rating</string>
+
+</resources>

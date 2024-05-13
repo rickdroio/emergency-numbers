@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Números de Emergência Brasil</string>
+    <string name="menu_settings">Sobre&#8230;</string>
+    <string name="menu_crimemaps">Download Crime Maps</string>
+
+    <string name="text_warning">ATENÇÃO! Este aplicativo não é responsável por completar a chamada de emergência</string>
+
+    <string name="title_sobre">Sobre Números de Emergência</string>
+    <string name="text_sobre">Esta aplicação, representada pelo seu desenvolvedor, não possui, nem alega possuir, responsabilidade pelo fato de ligações de emergência não sejam efetuadas com êxito, para qualquer tipo de finalidade. Também não possui responsabilidade caso o número correspondente seja alterado ou esteja errado. O intuito desse aplicativo é de prestação de serviço à população, disponibilizando os números de emergência para fácil acesso via celular.</string>
+    <string name="privacy_policy">Politica de Privacidade</string>
+
+    <string name="popup_call">Deseja realmente ligar para esse número de emergência?</string>
+    <string name="popup_call_yes">Sim</string>
+    <string name="popup_call_no">Não</string>
+
+    <string name="number_denuncia">Disque Denúncia</string>
+    <string name="desc_denuncia">Forneça à polícia informações anônimas sobre crimes ou outras formas de violência</string>
+
+    <string name="number_samu">SAMU (Ambulância)</string>
+    <string name="desc_samu">Serviço de Atendimento Móvel de Urgência (Ambulância)</string>
+
+    <string name="number_bombeiros">Corpo de Bombeiros</string>
+    <string name="desc_bombeiros">Prevenção e combate a incêndios, buscas, salvamentos e socorros públicos</string>
+
+    <string name="number_policia_militar">Polícia Militar</string>
+    <string name="desc_policia_militar">Polícia ostensiva e a preservação da ordem pública</string>
+
+    <string name="number_policia_militar_inter">Polícia Militar</string>
+    <string name="desc_policia_militar_inter">Número de emergência internacional, igual ao 190</string>
+
+    <string name="number_policia_rodoviaria_federal">Polícia Rodoviária Federal</string>
+    <string name="desc_policia_rodoviaria_federal">Patrulhamento ostensivo das rodovias federais</string>
+
+    <string name="number_policia_rodoviaria_estadual">Polícia Rodoviária Estadual</string>
+    <string name="desc_policia_rodoviaria_estadual">Apoio à acidentes e fiscalização de trânsito</string>
+
+    <string name="number_policia_federal">Polícia Federal</string>
+    <string name="desc_policia_federal">Responsáveis por funções marítima, aeroportuária e de fronteiras, drogas, etc</string>
+
+    <string name="number_policia_civil">Polícia Civil</string>
+    <string name="desc_policia_civil">Responsáveis pelo apuramento das infrações penais</string>
+
+    <string name="number_defesa_civil">Defesa Civil</string>
+    <string name="desc_defesa_civil">Apoio a desastres</string>
+
+    <string name="number_mulher">Delegacias Atendimento à Mulher</string>
+    <string name="desc_mulher">Especializados em crimes contra à mulher</string>
+
+    <string name="number_direitos_humanos">Secretaria dos Direitos Humanos</string>
+    <string name="desc_direitos_humanos">Responsável por direitos da criança, adolescente, idoso e das pessoas portadoras de deficiência</string>
+
+    <string name="number_ibama">Ibama</string>
+    <string name="desc_ibama">Crimes contra o meio ambiente</string>
+
+    <string name="number_transportes_publicos">Transportes Públicos</string>
+    <string name="desc_transportes_publicos">Responsável por transportes públicos</string>
+
+    <string name="number_vigilancia_sanitaria">Vigilância Sanitária</string>
+    <string name="desc_vigilancia_sanitaria">Controle sanitário de todos os produtos e serviços</string>
+
+    <string name="number_procon">PROCON</string>
+    <string name="desc_procon">Programa de Proteção e Defesa do Consumidor</string>
+
+    <string name="number_horacerta">Hora Certa</string>
+    <string name="desc_horacerta">Horário brasileiro oficial</string>
+
+    <string name="number_cvv">Centro de Valorização da Vida</string>
+    <string name="desc_cvv">Programa de Apoio Emocional por voluntários</string>
+
+    <string name="popup_rating_text">Gosta de usar esse aplicativo? Você se importaria de avaliá-lo? É apenas um minuto. Obrigado pelo seu apoio!</string>
+    <string name="popup_rating_btn_now">Avaliar agora</string>
+    <string name="popup_rating_btn_later">Lembrar mais tarde</string>
+    <string name="popup_rating_btn_never">Não, obrigado</string>
+    <string name="popup_rating_title">Avaliação do app</string>
+    <string name="number_guarda_municipal">Guarda Municipal</string>
+    <string name="desc_guarda_municipal">Guarda Municipal (policia local)</string>
+
+</resources>

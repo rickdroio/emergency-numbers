@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "319210071713",
+    "firebase_url": "https://crimemaps-86975.firebaseio.com",
+    "project_id": "crimemaps-86975",
+    "storage_bucket": "crimemaps-86975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319210071713:android:b4eb689efd016e9d",
+        "android_client_info": {
+          "package_name": "com.rdr.mapacrimes.lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319210071713-8p6r0qeqb9vmcil93iv35ma2sbn2858e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbiDJc8cN9Fwx7e4xa0JfsxXrpBO6li2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319210071713:android:7b5dc8c66ec7d47b",
+        "android_client_info": {
+          "package_name": "com.rdr.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319210071713-8p6r0qeqb9vmcil93iv35ma2sbn2858e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbiDJc8cN9Fwx7e4xa0JfsxXrpBO6li2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
